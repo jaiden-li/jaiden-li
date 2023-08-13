@@ -1,5 +1,9 @@
 ### Hello! 你好！Salut! ¡Hola! こんにちは! 안녕! ...
 
+I'm Jaiden, a rising high school junior with a passion for languages. Check out some of my stuff below:
+
+`💻 Website: [dreamingalias.com](https://dreamingalias.com)` 
+
 <!--
 **jaiden-li/jaiden-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
