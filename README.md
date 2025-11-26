@@ -1,6 +1,6 @@
 ### Hello! 你好！Salut! ¡Hola! こんにちは! 안녕! ...
 
-I'm Jaiden (pronounced /ˈd͡ʒeɪdn̩/), a high school junior with a passion for languages. Check out some of my stuff below:
+i'm jaiden (pronounced /ˈd͡ʒeɪdn̩/), a college freshman who's simultaneously passionate and apathetic. Check out some of my stuff below:
 
 💻 **Website**: [dreamingalias.com](https://dreamingalias.com/)
 
